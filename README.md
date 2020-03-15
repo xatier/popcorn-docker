@@ -1,3 +1,9 @@
+:warning::warning::warning::warning:
+# This project has been moved into https://github.com/xatier/dockerfiles
+:warning::warning::warning::warning:
+
+----
+
 # popcorn-docker 🍿
 
 Dockerfile for popcorntime
